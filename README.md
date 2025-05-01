@@ -16,5 +16,6 @@ git commit -m "[Database] DB Index"
 ```
 
 ## 참고 자료
-[tech-interview-for-developer]([https://github.com/ellynhan/challenge100-codingtest-study](https://github.com/gyoogle/tech-interview-for-developer))
+[tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+
 [2023-CS-Study](https://github.com/devSquad-study/2023-CS-Study)
